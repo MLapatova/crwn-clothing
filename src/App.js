@@ -23,4 +23,8 @@ function App() {
 }
 
 export default App;
+<<<<<<< HEAD
+// new comment
+=======
 // comment
+>>>>>>> 1c57b2215dd4b1b1e591fec0cf543179592c8918
